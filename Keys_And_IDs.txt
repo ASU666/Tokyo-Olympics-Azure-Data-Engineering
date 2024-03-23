@@ -1,0 +1,5 @@
+Application (client) ID:-  c5ee40da-c5b9-4430-9226-d0260be8fc22
+
+Directory (tenant) ID: -  0db5aa1b-5f6e-494a-a4e3-0b56fa727420
+
+Secret Key:- v748Q~lWsqe5zhNdaIYMTEF4cZLCGtTLaLpljaxQ
